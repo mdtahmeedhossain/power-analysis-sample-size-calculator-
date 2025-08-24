@@ -27,3 +27,6 @@ This simulator helps experiment planners determine:
 - Python (NumPy, Pandas, Matplotlib)
 - Statistical power analysis and Monte Carlo simulation
 - Jupyter Notebook
+
+## Files
+- `power_analysis_calculator.ipynb` - Main analysis notebook with sample size calculations, simulations, and visualizations
